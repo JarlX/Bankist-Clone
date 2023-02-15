@@ -4,7 +4,7 @@ Bankist-Clone
 
 4 farklı kullanıcı girişi sağlayan birbirleri arasında para gönderip isteyebildiği bir banka uygulaması klonudur.
 
-Canlı sürümü  ----------> bankistclonejarlx.netlify.app
+  ---------->   [Canlı sürümü](https://bankistclonejarlx.netlify.app/)  <---------
 
 Kullanıcı ID ve PW
 
